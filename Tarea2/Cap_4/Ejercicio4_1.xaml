@@ -1,0 +1,16 @@
+﻿<Window x:Class="Tarea2.Ejercicio4_1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea2"
+        mc:Ignorable="d"
+        Title="Ejercicio4_1" Height="450" Width="599">
+    <Grid>
+        <Label x:Name="tituloLabel" Content="Tabla de multiplicación" HorizontalAlignment="Left" Margin="170,30,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold" Width="224"/>
+        <Label x:Name="numTabla" Content="Número de tabla:" HorizontalAlignment="Left" Margin="48,101,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="numTextBox" HorizontalAlignment="Left" Height="34" Margin="202,101,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" FontSize="18"/>
+        <Button x:Name="AceptarButton" Content="Aceptar" HorizontalAlignment="Left" Height="34" Margin="354,101,0,0" VerticalAlignment="Top" Width="108" FontSize="14" Click="AceptarButton_Click"/>
+        <ListBox x:Name="tablaListBox" HorizontalAlignment="Left" Height="230" Margin="144,156,0,0" VerticalAlignment="Top" Width="250" FontSize="13"/>
+    </Grid>
+</Window>

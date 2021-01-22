@@ -1,0 +1,19 @@
+﻿<Window x:Class="Tarea2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="InicioMenu">
+        <Label x:Name="capitulo4Label" Content="Capítulo 4:" HorizontalAlignment="Left" Margin="44,41,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Ejercicio4Abutton" Content="Ejercicio 1" HorizontalAlignment="Left" Margin="35,81,0,0" VerticalAlignment="Top" Height="32" Width="84" Click="Ejercicio4Abutton_Click"/>
+        <Button x:Name="Ejercicio4Bbutton" Content="Ejercicio 2" HorizontalAlignment="Left" Margin="35,141,0,0" VerticalAlignment="Top" Height="32" Width="84" Click="Ejercicio4Bbutton_Click"/>
+        <Button x:Name="Ejercicio4Cbutton" Content="Ejercicio 5" HorizontalAlignment="Left" Height="32" Margin="35,196,0,0" VerticalAlignment="Top" Width="84" Click="Ejercicio4Cbutton_Click"/>
+        <Label x:Name="capitulo5Label" Content="Capítulo 5:" HorizontalAlignment="Left" Margin="195,41,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Ejercicio5Abutton" Content="Ejercicio 4" HorizontalAlignment="Left" Height="32" Margin="186,81,0,0" VerticalAlignment="Top" Width="84" Click="Ejercicio5Abutton_Click"/>
+        <Button x:Name="Ejercicio5Bbutton" Content="Ejercicio 5" HorizontalAlignment="Left" Height="32" Margin="186,141,0,0" VerticalAlignment="Top" Width="84" Click="Ejercicio5Bbutton_Click"/>
+
+    </Grid>
+</Window>

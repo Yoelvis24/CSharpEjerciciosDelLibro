@@ -1,24 +1,19 @@
 using System;
 
-namespace Ejercicio2_1
-{
-    class Program
+    class Ejercicio2_1
     {
-        static void Main(string[] args)
+        public Ejercicio2_1()
         {
             float perimetro, medida;
             int cantidad;
-            string entrada = "";
 
             //ToInt32 covierte cadena en entero
             Console.WriteLine("Ingrese la cantidad de los lados del poligono: ");
-            entrada = Console.ReadLine();
-            cantidad = Convert.ToInt32(entrada);
+            cantidad = Convert.ToInt32(Console.ReadLine());
 
             //ToSingle convierte de cadena a flotante
             Console.WriteLine("Ingrese la medida de los lados del poligono: ");
-            entrada = Console.ReadLine();
-            medida = Convert.ToSingle(entrada);
+            medida = Convert.ToSingle(Console.ReadLine());
 
             perimetro = medida * cantidad;
 
@@ -26,4 +21,4 @@ namespace Ejercicio2_1
             
         }
     }
-}
+

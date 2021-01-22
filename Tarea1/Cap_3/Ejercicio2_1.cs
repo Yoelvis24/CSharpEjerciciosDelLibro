@@ -1,17 +1,13 @@
 using System;
 
-namespace Ejercicio3_1
-{
-    class Program
+    class Ejercicio3_1
     {
-        static void Main(string[] args)
+        public Ejercicio3_1()
         {
             int n;
-            string entrada = "";
 
             Console.Write("Ingrese el numero a consultar: ");
-            entrada = Console.ReadLine();
-            n = Convert.ToInt32(entrada);
+            n = Convert.ToInt32(Console.ReadLine());
 
             if(n % 2 == 0)
             {
@@ -23,4 +19,3 @@ namespace Ejercicio3_1
             }
         }
     }
-}

@@ -1,30 +1,24 @@
 using System;
 
-namespace Ejercicio2_5
-{
-    class Program
+    class Ejercicio2_5
     {
-        static void Main(string[] args)
+        public Ejercicio2_5()
         {
             float dolar, euros, cambio;
-            string entrada = "";
             int op;
 
             Console.WriteLine("Convertir: \n1)De Dolares a Euros.\n2)De Euros a Dolares");
-            entrada = Console.ReadLine();
-            op = Convert.ToInt32(entrada);
+            op = Convert.ToInt32(Console.ReadLine());
 
             if(op == 1)
             {
                 //ToSingle convierte de cadena a flotante
                 Console.WriteLine("Ingrese el valor del dolar actualizado en EUROS: ");
-                entrada = Console.ReadLine();
-                cambio = Convert.ToSingle(entrada);
+                cambio = Convert.ToSingle(Console.ReadLine());
 
                 //ToSingle convierte de cadena a flotante
                 Console.WriteLine("Ingrese el monto en dolares a cambiar: ");
-                entrada = Console.ReadLine();
-                dolar = Convert.ToSingle(entrada);
+                dolar = Convert.ToSingle(Console.ReadLine());
 
                 euros = dolar * cambio;
 
@@ -34,13 +28,11 @@ namespace Ejercicio2_5
             {
                 //ToSingle convierte de cadena a flotante
                 Console.WriteLine("Ingrese el valor del Euro actualizado en Dolares: ");
-                entrada = Console.ReadLine();
-                cambio = Convert.ToSingle(entrada);
+                cambio = Convert.ToSingle(Console.ReadLine());
 
                 //ToSingle convierte de cadena a flotante
                 Console.WriteLine("Ingrese el monto en Euros a cambiar: ");
-                entrada = Console.ReadLine();
-                euros = Convert.ToSingle(entrada);
+                euros = Convert.ToSingle(Console.ReadLine());
 
                 dolar = euros * cambio;
 
@@ -49,4 +41,4 @@ namespace Ejercicio2_5
             
         }
     }
-}
+

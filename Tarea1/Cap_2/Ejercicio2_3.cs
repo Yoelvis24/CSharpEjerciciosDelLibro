@@ -1,10 +1,8 @@
 using System;
 
-namespace Ejercicio2_3
-{
-    class Program
+    class Ejercicio2_3
     {
-        static void Main(string[] args)
+        public Ejercicio2_3()
         { 
             double radianes;
             float grados;
@@ -21,4 +19,3 @@ namespace Ejercicio2_3
             Console.WriteLine("Radianes: {0}", radianes);
         }
     }
-}

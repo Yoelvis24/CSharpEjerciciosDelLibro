@@ -1,0 +1,18 @@
+﻿<Window x:Class="Tarea2.Ejercicio5_5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tarea2"
+        mc:Ignorable="d"
+        Title="Ejercicio5_5" Height="354" Width="568">
+    <Grid Height="344" VerticalAlignment="Top">
+        <Label x:Name="tituloLabel" Content="Al digitar un número el programa imprime su nombre " HorizontalAlignment="Left" Margin="42,25,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <Label x:Name="numLabel" Content="Digite un número del 0 al 10:" HorizontalAlignment="Left" Height="47" Margin="57,117,0,0" VerticalAlignment="Top" Width="221" FontSize="16"/>
+        <TextBox x:Name="numTextBox" HorizontalAlignment="Left" Height="47" Margin="284,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="73" FontSize="18" TextAlignment="Center"/>
+        <Button x:Name="AceptarButton" Content="Aceptar" HorizontalAlignment="Left" Height="47" Margin="376,109,0,0" VerticalAlignment="Top" Width="88" FontSize="16" Click="AceptarButton_Click"/>
+        <Rectangle x:Name="cuadro" HorizontalAlignment="Left" Height="100" Margin="141,187,0,0" Stroke="Black" VerticalAlignment="Top" Width="279"/>
+        <Label x:Name="resultadoLabel" Content="" HorizontalAlignment="Left" Height="48" Margin="238,215,0,0" VerticalAlignment="Top" Width="119" FontSize="30" FontWeight="Bold"/>
+
+    </Grid>
+</Window>

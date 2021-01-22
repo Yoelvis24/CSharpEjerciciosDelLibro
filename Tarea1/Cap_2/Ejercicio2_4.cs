@@ -1,10 +1,8 @@
 using System;
 
-namespace Ejercicio2_4
-{
-    class Program
+    class Ejercicio2_4
     {
-        static void Main(string[] args)
+        public Ejercicio2_4()
         {
             float gradoC;
             float gradoF;
@@ -20,4 +18,3 @@ namespace Ejercicio2_4
 
         }
     }
-}

@@ -1,17 +1,13 @@
 using System;
 
-namespace Ejercicio3_4
-{
-    class Program
+    class Ejercicio3_4
     {
-        static void Main(string[] args)
+        public Ejercicio3_4()
         {
             int dia;
-            string entrada = "";
 
             Console.Write("Ingrese un numero del 1 al 7 porfavor: ");
-            entrada = Console.ReadLine();
-            dia = Convert.ToInt32(entrada);
+            dia = Convert.ToInt32(Console.ReadLine());
 
             switch (dia)
             {
@@ -42,4 +38,3 @@ namespace Ejercicio3_4
             }
         }
     }
-}
