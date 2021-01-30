@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 2\Cap_4\Ejercicio4_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 2\Cap_4\Ejercicio4_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 2\Cap_4\Ejercicio4_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 2\Cap_5\Ejercicio5_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 2\Cap_5\Ejercicio5_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 3\Cap_6\Ejercicio6_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 3\Cap_6\Ejercicio6_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 3\Cap_6\Ejercicio6_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 3\Cap_6\Ejercicio6_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 3\Cap_6\Ejercicio6_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 3\Cap_7\Ejercicio7_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 3\Cap_7\Ejercicio7_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea 3\Cap_7\Ejercicio7_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
