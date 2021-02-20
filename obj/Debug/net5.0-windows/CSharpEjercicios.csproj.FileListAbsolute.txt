@@ -29,3 +29,38 @@ C:\Users\yoelv\Desktop\Aplicada 1\Prueba\Tarea2\obj\Debug\net5.0-windows\Tarea2.
 C:\Users\yoelv\Desktop\Aplicada 1\Prueba\Tarea2\obj\Debug\net5.0-windows\ref\Tarea2.dll
 C:\Users\yoelv\Desktop\Aplicada 1\Prueba\Tarea2\obj\Debug\net5.0-windows\Tarea2.pdb
 C:\Users\yoelv\Desktop\Aplicada 1\Prueba\Tarea2\obj\Debug\net5.0-windows\CSharpEjercicios.genruntimeconfig.cache
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\bin\Debug\net5.0-windows\Tarea2.exe
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\bin\Debug\net5.0-windows\Tarea2.deps.json
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\bin\Debug\net5.0-windows\Tarea2.runtimeconfig.json
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\bin\Debug\net5.0-windows\Tarea2.runtimeconfig.dev.json
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\bin\Debug\net5.0-windows\Tarea2.dll
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\bin\Debug\net5.0-windows\ref\Tarea2.dll
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\bin\Debug\net5.0-windows\Tarea2.pdb
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\CSharpEjercicios.csprojAssemblyReference.cache
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.InicioForm.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Ejercicio4_1.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_4.Ejercicio4_2.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_4.Ejercicio4_5.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_5.Ejercicio5_4.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_5.Ejercicio5_5.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_6.Ejercicio6_1.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_6.Ejercicio6_2.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_6.Ejercicio6_3.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_6.Ejercicio6_4.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_6.Ejercicio6_5.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_7.Ejercicio7_1.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_7.Ejercicio7_2.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Cap_7.Ejercicio7_5.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Tarea4.Cap_8.Ejercicio8_3.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\CSharpEjercicios.csproj.GenerateResource.cache
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\CSharpEjercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\CSharpEjercicios.AssemblyInfoInputs.cache
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\CSharpEjercicios.AssemblyInfo.cs
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\CSharpEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.dll
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\ref\Tarea2.dll
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.pdb
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\CSharpEjercicios.genruntimeconfig.cache
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Tarea4.Cap_8.Ejercicio8_5.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Tarea4.Cap_9.Ejercicio9_1.resources
+C:\Users\yoelv\source\repos\Yoelvis24\CSharpEjerciciosDelLibro\obj\Debug\net5.0-windows\Tarea2.Tarea4.Cap_9.Ejercicio9_3.resources

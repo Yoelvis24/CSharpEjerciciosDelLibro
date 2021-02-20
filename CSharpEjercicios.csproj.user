@@ -4,43 +4,55 @@
     <Compile Update="Inicio.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 2\Cap_4\Ejercicio4_1.cs">
+    <Compile Update="Tarea2\Cap_4\Ejercicio4_1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 2\Cap_4\Ejercicio4_2.cs">
+    <Compile Update="Tarea2\Cap_4\Ejercicio4_2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 2\Cap_4\Ejercicio4_5.cs">
+    <Compile Update="Tarea2\Cap_4\Ejercicio4_5.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 2\Cap_5\Ejercicio5_4.cs">
+    <Compile Update="Tarea2\Cap_5\Ejercicio5_4.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 2\Cap_5\Ejercicio5_5.cs">
+    <Compile Update="Tarea2\Cap_5\Ejercicio5_5.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 3\Cap_6\Ejercicio6_1.cs">
+    <Compile Update="Tarea3\Cap_6\Ejercicio6_1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 3\Cap_6\Ejercicio6_2.cs">
+    <Compile Update="Tarea3\Cap_6\Ejercicio6_2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 3\Cap_6\Ejercicio6_3.cs">
+    <Compile Update="Tarea3\Cap_6\Ejercicio6_3.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 3\Cap_6\Ejercicio6_4.cs">
+    <Compile Update="Tarea3\Cap_6\Ejercicio6_4.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 3\Cap_6\Ejercicio6_5.cs">
+    <Compile Update="Tarea3\Cap_6\Ejercicio6_5.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 3\Cap_7\Ejercicio7_1.cs">
+    <Compile Update="Tarea3\Cap_7\Ejercicio7_1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 3\Cap_7\Ejercicio7_2.cs">
+    <Compile Update="Tarea3\Cap_7\Ejercicio7_2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea 3\Cap_7\Ejercicio7_5.cs">
+    <Compile Update="Tarea3\Cap_7\Ejercicio7_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea4\Cap_8\Ejercicio8_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea4\Cap_8\Ejercicio8_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea4\Cap_9\Ejercicio9_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tarea4\Cap_9\Ejercicio9_3.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

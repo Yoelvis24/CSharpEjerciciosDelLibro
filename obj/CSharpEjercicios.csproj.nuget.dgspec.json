@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yoelv\\Desktop\\Aplicada 1\\Prueba\\Tarea2\\CSharpEjercicios.csproj": {}
+    "C:\\Users\\yoelv\\source\\repos\\Yoelvis24\\CSharpEjerciciosDelLibro\\CSharpEjercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yoelv\\Desktop\\Aplicada 1\\Prueba\\Tarea2\\CSharpEjercicios.csproj": {
+    "C:\\Users\\yoelv\\source\\repos\\Yoelvis24\\CSharpEjerciciosDelLibro\\CSharpEjercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yoelv\\Desktop\\Aplicada 1\\Prueba\\Tarea2\\CSharpEjercicios.csproj",
+        "projectUniqueName": "C:\\Users\\yoelv\\source\\repos\\Yoelvis24\\CSharpEjerciciosDelLibro\\CSharpEjercicios.csproj",
         "projectName": "Tarea2",
-        "projectPath": "C:\\Users\\yoelv\\Desktop\\Aplicada 1\\Prueba\\Tarea2\\CSharpEjercicios.csproj",
+        "projectPath": "C:\\Users\\yoelv\\source\\repos\\Yoelvis24\\CSharpEjerciciosDelLibro\\CSharpEjercicios.csproj",
         "packagesPath": "C:\\Users\\yoelv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yoelv\\Desktop\\Aplicada 1\\Prueba\\Tarea2\\obj\\",
+        "outputPath": "C:\\Users\\yoelv\\source\\repos\\Yoelvis24\\CSharpEjerciciosDelLibro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yoelv\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

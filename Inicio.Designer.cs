@@ -46,11 +46,18 @@ namespace Tarea2
             this.Ejercicio7AButton = new System.Windows.Forms.Button();
             this.Ejercicio7BButton = new System.Windows.Forms.Button();
             this.Ejercicio7CButton = new System.Windows.Forms.Button();
+            this.capitulo8Label = new System.Windows.Forms.Label();
+            this.capitulo9Label = new System.Windows.Forms.Label();
+            this.Ejercicio8AButton = new System.Windows.Forms.Button();
+            this.Ejercicio8BButton = new System.Windows.Forms.Button();
+            this.Ejercicio9AButton = new System.Windows.Forms.Button();
+            this.Ejercicio9BButton = new System.Windows.Forms.Button();
+            this.Ejercicio9CButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Ejercicio4AButton
             // 
-            this.Ejercicio4AButton.Location = new System.Drawing.Point(60, 126);
+            this.Ejercicio4AButton.Location = new System.Drawing.Point(10, 80);
             this.Ejercicio4AButton.Name = "Ejercicio4AButton";
             this.Ejercicio4AButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio4AButton.TabIndex = 0;
@@ -60,7 +67,7 @@ namespace Tarea2
             // 
             // Ejercicio4BButton
             // 
-            this.Ejercicio4BButton.Location = new System.Drawing.Point(60, 172);
+            this.Ejercicio4BButton.Location = new System.Drawing.Point(10, 126);
             this.Ejercicio4BButton.Name = "Ejercicio4BButton";
             this.Ejercicio4BButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio4BButton.TabIndex = 1;
@@ -70,7 +77,7 @@ namespace Tarea2
             // 
             // Ejercicio4CButton
             // 
-            this.Ejercicio4CButton.Location = new System.Drawing.Point(60, 218);
+            this.Ejercicio4CButton.Location = new System.Drawing.Point(10, 172);
             this.Ejercicio4CButton.Name = "Ejercicio4CButton";
             this.Ejercicio4CButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio4CButton.TabIndex = 2;
@@ -82,7 +89,7 @@ namespace Tarea2
             // 
             this.capitulo4Label.AutoSize = true;
             this.capitulo4Label.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.capitulo4Label.Location = new System.Drawing.Point(60, 77);
+            this.capitulo4Label.Location = new System.Drawing.Point(10, 31);
             this.capitulo4Label.Name = "capitulo4Label";
             this.capitulo4Label.Size = new System.Drawing.Size(120, 30);
             this.capitulo4Label.TabIndex = 3;
@@ -92,7 +99,7 @@ namespace Tarea2
             // 
             this.capitulo5Label.AutoSize = true;
             this.capitulo5Label.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.capitulo5Label.Location = new System.Drawing.Point(227, 77);
+            this.capitulo5Label.Location = new System.Drawing.Point(136, 31);
             this.capitulo5Label.Name = "capitulo5Label";
             this.capitulo5Label.Size = new System.Drawing.Size(120, 30);
             this.capitulo5Label.TabIndex = 4;
@@ -100,7 +107,7 @@ namespace Tarea2
             // 
             // Ejercicio5AButton
             // 
-            this.Ejercicio5AButton.Location = new System.Drawing.Point(227, 126);
+            this.Ejercicio5AButton.Location = new System.Drawing.Point(136, 80);
             this.Ejercicio5AButton.Name = "Ejercicio5AButton";
             this.Ejercicio5AButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio5AButton.TabIndex = 5;
@@ -110,7 +117,7 @@ namespace Tarea2
             // 
             // Ejercicio5BButton
             // 
-            this.Ejercicio5BButton.Location = new System.Drawing.Point(227, 172);
+            this.Ejercicio5BButton.Location = new System.Drawing.Point(136, 126);
             this.Ejercicio5BButton.Name = "Ejercicio5BButton";
             this.Ejercicio5BButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio5BButton.TabIndex = 6;
@@ -122,7 +129,7 @@ namespace Tarea2
             // 
             this.capitulo6Label.AutoSize = true;
             this.capitulo6Label.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.capitulo6Label.Location = new System.Drawing.Point(384, 77);
+            this.capitulo6Label.Location = new System.Drawing.Point(262, 31);
             this.capitulo6Label.Name = "capitulo6Label";
             this.capitulo6Label.Size = new System.Drawing.Size(120, 30);
             this.capitulo6Label.TabIndex = 7;
@@ -132,7 +139,7 @@ namespace Tarea2
             // 
             this.capitulo7Label.AutoSize = true;
             this.capitulo7Label.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.capitulo7Label.Location = new System.Drawing.Point(538, 77);
+            this.capitulo7Label.Location = new System.Drawing.Point(388, 31);
             this.capitulo7Label.Name = "capitulo7Label";
             this.capitulo7Label.Size = new System.Drawing.Size(120, 30);
             this.capitulo7Label.TabIndex = 8;
@@ -140,7 +147,7 @@ namespace Tarea2
             // 
             // Ejercicio6AButton
             // 
-            this.Ejercicio6AButton.Location = new System.Drawing.Point(384, 126);
+            this.Ejercicio6AButton.Location = new System.Drawing.Point(262, 80);
             this.Ejercicio6AButton.Name = "Ejercicio6AButton";
             this.Ejercicio6AButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio6AButton.TabIndex = 9;
@@ -150,7 +157,7 @@ namespace Tarea2
             // 
             // Ejercicio6BButton
             // 
-            this.Ejercicio6BButton.Location = new System.Drawing.Point(384, 172);
+            this.Ejercicio6BButton.Location = new System.Drawing.Point(262, 126);
             this.Ejercicio6BButton.Name = "Ejercicio6BButton";
             this.Ejercicio6BButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio6BButton.TabIndex = 10;
@@ -160,7 +167,7 @@ namespace Tarea2
             // 
             // Ejercicio6CButton
             // 
-            this.Ejercicio6CButton.Location = new System.Drawing.Point(384, 218);
+            this.Ejercicio6CButton.Location = new System.Drawing.Point(262, 172);
             this.Ejercicio6CButton.Name = "Ejercicio6CButton";
             this.Ejercicio6CButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio6CButton.TabIndex = 11;
@@ -170,7 +177,7 @@ namespace Tarea2
             // 
             // Ejercicio6DButton
             // 
-            this.Ejercicio6DButton.Location = new System.Drawing.Point(384, 264);
+            this.Ejercicio6DButton.Location = new System.Drawing.Point(262, 218);
             this.Ejercicio6DButton.Name = "Ejercicio6DButton";
             this.Ejercicio6DButton.Size = new System.Drawing.Size(120, 39);
             this.Ejercicio6DButton.TabIndex = 12;
@@ -180,7 +187,7 @@ namespace Tarea2
             // 
             // Ejercicio6EButton
             // 
-            this.Ejercicio6EButton.Location = new System.Drawing.Point(384, 309);
+            this.Ejercicio6EButton.Location = new System.Drawing.Point(262, 263);
             this.Ejercicio6EButton.Name = "Ejercicio6EButton";
             this.Ejercicio6EButton.Size = new System.Drawing.Size(120, 39);
             this.Ejercicio6EButton.TabIndex = 13;
@@ -190,7 +197,7 @@ namespace Tarea2
             // 
             // Ejercicio7AButton
             // 
-            this.Ejercicio7AButton.Location = new System.Drawing.Point(538, 126);
+            this.Ejercicio7AButton.Location = new System.Drawing.Point(388, 80);
             this.Ejercicio7AButton.Name = "Ejercicio7AButton";
             this.Ejercicio7AButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio7AButton.TabIndex = 14;
@@ -200,7 +207,7 @@ namespace Tarea2
             // 
             // Ejercicio7BButton
             // 
-            this.Ejercicio7BButton.Location = new System.Drawing.Point(538, 172);
+            this.Ejercicio7BButton.Location = new System.Drawing.Point(388, 126);
             this.Ejercicio7BButton.Name = "Ejercicio7BButton";
             this.Ejercicio7BButton.Size = new System.Drawing.Size(120, 39);
             this.Ejercicio7BButton.TabIndex = 15;
@@ -210,7 +217,7 @@ namespace Tarea2
             // 
             // Ejercicio7CButton
             // 
-            this.Ejercicio7CButton.Location = new System.Drawing.Point(538, 218);
+            this.Ejercicio7CButton.Location = new System.Drawing.Point(388, 172);
             this.Ejercicio7CButton.Name = "Ejercicio7CButton";
             this.Ejercicio7CButton.Size = new System.Drawing.Size(120, 40);
             this.Ejercicio7CButton.TabIndex = 16;
@@ -218,11 +225,86 @@ namespace Tarea2
             this.Ejercicio7CButton.UseVisualStyleBackColor = true;
             this.Ejercicio7CButton.Click += new System.EventHandler(this.Ejercicio7CButton_Click);
             // 
+            // capitulo8Label
+            // 
+            this.capitulo8Label.AutoSize = true;
+            this.capitulo8Label.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.capitulo8Label.Location = new System.Drawing.Point(514, 31);
+            this.capitulo8Label.Name = "capitulo8Label";
+            this.capitulo8Label.Size = new System.Drawing.Size(120, 30);
+            this.capitulo8Label.TabIndex = 17;
+            this.capitulo8Label.Text = "Capítulo 8:";
+            // 
+            // capitulo9Label
+            // 
+            this.capitulo9Label.AutoSize = true;
+            this.capitulo9Label.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.capitulo9Label.Location = new System.Drawing.Point(640, 31);
+            this.capitulo9Label.Name = "capitulo9Label";
+            this.capitulo9Label.Size = new System.Drawing.Size(120, 30);
+            this.capitulo9Label.TabIndex = 18;
+            this.capitulo9Label.Text = "Capítulo 9:";
+            // 
+            // Ejercicio8AButton
+            // 
+            this.Ejercicio8AButton.Location = new System.Drawing.Point(514, 80);
+            this.Ejercicio8AButton.Name = "Ejercicio8AButton";
+            this.Ejercicio8AButton.Size = new System.Drawing.Size(120, 40);
+            this.Ejercicio8AButton.TabIndex = 19;
+            this.Ejercicio8AButton.Text = "Ejercicio 3";
+            this.Ejercicio8AButton.UseVisualStyleBackColor = true;
+            this.Ejercicio8AButton.Click += new System.EventHandler(this.Ejercicio8AButton_Click);
+            // 
+            // Ejercicio8BButton
+            // 
+            this.Ejercicio8BButton.Location = new System.Drawing.Point(514, 126);
+            this.Ejercicio8BButton.Name = "Ejercicio8BButton";
+            this.Ejercicio8BButton.Size = new System.Drawing.Size(120, 39);
+            this.Ejercicio8BButton.TabIndex = 20;
+            this.Ejercicio8BButton.Text = "Ejercicio 5";
+            this.Ejercicio8BButton.UseVisualStyleBackColor = true;
+            this.Ejercicio8BButton.Click += new System.EventHandler(this.Ejercicio8BButton_Click);
+            // 
+            // Ejercicio9AButton
+            // 
+            this.Ejercicio9AButton.Location = new System.Drawing.Point(640, 80);
+            this.Ejercicio9AButton.Name = "Ejercicio9AButton";
+            this.Ejercicio9AButton.Size = new System.Drawing.Size(120, 40);
+            this.Ejercicio9AButton.TabIndex = 21;
+            this.Ejercicio9AButton.Text = "Ejercicio 1";
+            this.Ejercicio9AButton.UseVisualStyleBackColor = true;
+            this.Ejercicio9AButton.Click += new System.EventHandler(this.Ejercicio9AButton_Click);
+            // 
+            // Ejercicio9BButton
+            // 
+            this.Ejercicio9BButton.Location = new System.Drawing.Point(640, 126);
+            this.Ejercicio9BButton.Name = "Ejercicio9BButton";
+            this.Ejercicio9BButton.Size = new System.Drawing.Size(120, 39);
+            this.Ejercicio9BButton.TabIndex = 22;
+            this.Ejercicio9BButton.Text = "Ejercicio 3";
+            this.Ejercicio9BButton.UseVisualStyleBackColor = true;
+            // 
+            // Ejercicio9CButton
+            // 
+            this.Ejercicio9CButton.Location = new System.Drawing.Point(640, 171);
+            this.Ejercicio9CButton.Name = "Ejercicio9CButton";
+            this.Ejercicio9CButton.Size = new System.Drawing.Size(120, 41);
+            this.Ejercicio9CButton.TabIndex = 23;
+            this.Ejercicio9CButton.Text = "Ejercicio 5";
+            this.Ejercicio9CButton.UseVisualStyleBackColor = true;
+            // 
             // InicioForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(716, 384);
+            this.ClientSize = new System.Drawing.Size(773, 328);
+            this.Controls.Add(this.Ejercicio9CButton);
+            this.Controls.Add(this.Ejercicio9BButton);
+            this.Controls.Add(this.Ejercicio9AButton);
+            this.Controls.Add(this.Ejercicio8BButton);
+            this.Controls.Add(this.Ejercicio8AButton);
+            this.Controls.Add(this.capitulo9Label);
+            this.Controls.Add(this.capitulo8Label);
             this.Controls.Add(this.Ejercicio7CButton);
             this.Controls.Add(this.Ejercicio7BButton);
             this.Controls.Add(this.Ejercicio7AButton);
@@ -266,6 +348,13 @@ namespace Tarea2
         private System.Windows.Forms.Button Ejercicio7AButton;
         private System.Windows.Forms.Button Ejercicio7BButton;
         private System.Windows.Forms.Button Ejercicio7CButton;
+        private System.Windows.Forms.Label capitulo8Label;
+        private System.Windows.Forms.Label capitulo9Label;
+        private System.Windows.Forms.Button Ejercicio8AButton;
+        private System.Windows.Forms.Button Ejercicio8BButton;
+        private System.Windows.Forms.Button Ejercicio9AButton;
+        private System.Windows.Forms.Button Ejercicio9BButton;
+        private System.Windows.Forms.Button Ejercicio9CButton;
     }
 }
 

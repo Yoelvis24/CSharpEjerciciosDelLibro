@@ -94,5 +94,23 @@ namespace Tarea2
             Form ejercicio7C = new Cap_7.Ejercicio7_5();
             ejercicio7C.Show();
         }
+
+        private void Ejercicio8AButton_Click(object sender, EventArgs e)
+        {
+            Form ejercicio8A = new Tarea4.Cap_8.Ejercicio8_3();
+            ejercicio8A.Show();
+        }
+
+        private void Ejercicio8BButton_Click(object sender, EventArgs e)
+        {
+            Form ejercicio8B = new Tarea4.Cap_8.Ejercicio8_5();
+            ejercicio8B.Show();
+        }
+
+        private void Ejercicio9AButton_Click(object sender, EventArgs e)
+        {
+            Form ejercicio9A = new Tarea4.Cap_9.Ejercicio9_1();
+            ejercicio9A.Show();
+        }
     }
 }
