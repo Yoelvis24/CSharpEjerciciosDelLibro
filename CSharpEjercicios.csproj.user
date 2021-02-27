@@ -52,8 +52,5 @@
     <Compile Update="Tarea4\Cap_9\Ejercicio9_1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Tarea4\Cap_9\Ejercicio9_3.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
